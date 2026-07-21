@@ -25,7 +25,7 @@ Actualmente busco una oportunidad como pasante o desarrollador trainee para segu
 El objetivo es construir la arquitectura de software necesaria para convertir el prototipo en una primera versión funcional, desarrollando backend, frontend, persistencia de datos, gestión de estudios y una base preparada para futuras mejoras del modelo de IA.
 Stack principal: Java + Spring Boot, Next.js/React, PostgreSQL, APIs REST y buenas prácticas de diseño de software.
 
-Buscando una pasantía o posición como Desarrollador Trainee o Junior.
+-Buscando una pasantía o posición como Desarrollador Trainee o Junior.
 
 ## Proyectos destacados
 

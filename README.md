@@ -1,16 +1,37 @@
-## Hi there 👋
+# ¡Hola! Soy Juan Martín López Vannoni
 
-<!--
-**JLEPROSO/JLEPROSO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante avanzado de Ingeniería en Sistemas en UNICEN, interesado en el desarrollo de software y especialmente en el backend y las Bases de Datos.
 
-Here are some ideas to get you started:
+Me gusta participar en proyectos donde pueda diseñar soluciones, implementar aplicaciones y aplicar buenas prácticas de programación.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tengo experiencia con Java, C++, Pascal, Python, PostgreSQL, Git, Docker y Linux, además de desarrollar proyectos académicos y personales.
+
+Actualmente busco una oportunidad como pasante o desarrollador trainee para seguir aprendiendo y aportar valor en un equipo de desarrollo.
+
+## Tecnologías
+
+- Java
+- C++
+- Pascal
+- Python
+- PostgreSQL
+- Docker
+- Git
+- Linux
+
+## Actualmente
+
+-Proyecto de Tesis, que consiste en la evolución de un prototipo de análisis de resonancias magnéticas cerebrales basado en Inteligencia Artificial hacia una aplicación estructurada y escalable.
+El objetivo es construir la arquitectura de software necesaria para convertir el prototipo en una primera versión funcional, desarrollando backend, frontend, persistencia de datos, gestión de estudios y una base preparada para futuras mejoras del modelo de IA.
+Stack principal: Java + Spring Boot, Next.js/React, PostgreSQL, APIs REST y buenas prácticas de diseño de software.
+
+Buscando una pasantía o posición como Desarrollador Trainee o Junior.
+
+## Proyectos destacados
+
+- Proyecto Compiladores
+- Proyecto Airport Routing System
+- Proyecto de Tesis en Curso (mencionado anteriormente)
+
+📫 Email: jlopezvannoni@gmail.com
+💼 LinkedIn: www.linkedin.com/in/jlopezvannoni
